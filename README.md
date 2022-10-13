@@ -2,7 +2,7 @@
 
 ---
 
-## Built Using
+## Built Using:
 
 - JavaScript
 - CSS
